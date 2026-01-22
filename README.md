@@ -62,8 +62,12 @@ The dashboard focuses on the following business-critical KPIs:
 The Power BI dashboard provides an interactive view of sales performance across time, products, and regions.
 
 ### 🔹 Main Dashboard View
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](images/dashboard_overview.PNG)
 
+### 🔹 Trend changes by month, by quarter and by year
+![by_month_trend](images/by_month.PNG)
+![by_quarter trend](images/by_quarter.PNG)
+![by_year_trend](images/by_year.PNG)
 ---
 
 ## 🔍 Key Insights
